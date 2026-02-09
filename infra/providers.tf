@@ -4,7 +4,7 @@ variable "project_id" {
 
 variable "region" {
   type    = string
-  default = "autralia-southeast1"
+  default = "australia-southeast1"
 }
 
 provider "google" {
